@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.box {
+	background-color: lightgray;
+	height: 800px;
+	width:400px;
+	padding:40px;
+	box-shadow: 2px 2px 10px darkgray;
+	
+}
+div {
+	text-align: center;
+	
+}
+h1{
+	font-size:60px;
+	margin: -5px;
+}
+p{
+	font-size:50px;
+	margin: -8px;
+}
+button {
+	background: rgb(239,87,76);
+	color: white;
+	font-size: 30px;
+	margin:40px;
+	border: none;
+	border-radius:20px;
+	height:70px;
+	width: 150px;
+	
+}
